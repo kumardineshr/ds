@@ -36,7 +36,5 @@ public class ValidAnagram {
 		System.out.println("Checking for s:"+s+", t:"+t+", isAnagram: "+obj.isAnagram(s, t));
 		s = "jar"; t = "jam";
 		System.out.println("Checking for s:"+s+", t:"+t+", isAnagram: "+obj.isAnagram(s, t));
-
 	}
-
 }
